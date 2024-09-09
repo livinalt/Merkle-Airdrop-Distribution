@@ -60,5 +60,4 @@ contract MerkleAirdrop {
         return MerkleProof.verify(proof, merkleRoot, leaf);
     }
 
-
 }
