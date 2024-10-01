@@ -53,7 +53,9 @@ Compile the Solidity smart contracts using Hardhat:
 npx hardhat compile
 ```
 
-### 4. Run Tests
+### 4. Run the Merkle.js Script
+
+### 5. Run Tests
 
 The tests for this project ensure that the airdrop process works correctly, including verifying Merkle proofs and claiming tokens.
 
